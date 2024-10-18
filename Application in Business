@@ -1,5 +1,6 @@
 
-The disease classification model using SVM and other machine learning techniques can greatly enhance healthcare by enabling fast, accurate detection of conditions like Monkeypox, Chickenpox, Measles, and Normal skin states. This can be applied in:
+The disease classification model using SVM and other machine learning techniques can greatly enhance healthcare by enabling fast, accurate detection of conditions like Monkeypox, Chickenpox, Measles, and Normal skin states. 
+This can be applied in:
 
 Hospitals/Clinics: Automating diagnosis, helping doctors make quicker, more precise decisions.
 Telemedicine: Supporting remote consultations by classifying skin conditions based on images.
