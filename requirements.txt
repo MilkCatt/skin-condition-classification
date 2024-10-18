@@ -1,7 +1,10 @@
 numpy
 pandas
-pytorch
 torch
 torchvision
 matplotlib
 seaborn
+scikit-image
+scikit-learn
+opencv-python
+timm
